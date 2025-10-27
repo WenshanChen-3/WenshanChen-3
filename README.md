@@ -1,6 +1,6 @@
 # Hi there! 😊
 
-I'm a researcher in **semiconductor thin film materials** who loves coding and delving deeper into data-driven science.
+I'm a researcher in **semiconductor thin film materials** who loves coding and delving deeper.
 
 💡 **What I'm interested in:**
 - Data-driven materials science and automation  
